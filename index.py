@@ -1,4 +1,4 @@
-import math
+
 
 
 def about_water(price):
@@ -8,6 +8,7 @@ def about_water(price):
 
 
 for _ in range(3):
-    price_of = int(input("Введите цену "))
+<<<<<<< HEAD
+    price_of_water = int(input("Введите цену "))
     about_water(price_of_water)
 print('что то как то ')
