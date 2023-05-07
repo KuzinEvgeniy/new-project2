@@ -8,6 +8,6 @@ def about_water(price):
 
 
 for _ in range(3):
-    price_of_water = int(input("Введите цену "))
+    price_of_water = input("Введите цену ")
     about_water(price_of_water)
     
